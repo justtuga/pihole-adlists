@@ -1,128 +1,81 @@
-# google ads
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 googleadservices.com
-
-# media.net
-0.0.0.0 static.media.net
-0.0.0.0 media.net
-0.0.0.0 adservetx.media.net
-
-# doubleclick.net
-0.0.0.0 doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-
-# fastclick
-0.0.0.0 media.fastclick.net/
-
-#amazon
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-
-#google analytics
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-
-# hotjar
-0.0.0.0 hotjar.com
-0.0.0.0 static.hotjar.com
-
-# mouseflow
-0.0.0.0 mouseflow.com
-0.0.0.0 a.mouseflow.com
-
-#frashmarketer
-0.0.0.0 freshmarketer.com
-
-#luckyorange
-0.0.0.0 luckyorange.com
-0.0.0.0 cdn.luckyorange.com
-0.0.0.0 w1.luckyorange.com
-0.0.0.0 upload.luckyorange.net
-0.0.0.0 cs.luckyorange.net
-0.0.0.0 settings.luckyorange.net
-
-# stats wp plugin
-0.0.0.0 stats.wp.com
-
-# bugsnag
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
-
-#sentry
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
-
-# facebook
-0.0.0.0 pixel.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-
-# twitter
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 advertising.twitter.com
-
-# linkedin
-0.0.0.0 ads.linkedin.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-
-# pinterest
-0.0.0.0 ads.pinterest.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 ads-dev.pinterest.com
-0.0.0.0 analytics.pinterest.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 widgets.pinterest.com
-
-# reddit
-0.0.0.0 ads.reddit.com
-0.0.0.0 d.reddit.com
-0.0.0.0 rereddit.com
-0.0.0.0 events.redditmedia.com
-
-# youtube
-0.0.0.0 ads.youtube.com
-0.0.0.0 youtube.cleverads.vn
-
-# tiktok
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 analytics-sg.tiktok.com
-0.0.0.0 ads-sg.tiktok.com
-
-#yahoo
-0.0.0.0 ads.yahoo.com
-0.0.0.0 global.adserver.yahoo.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 ads.yap.yahoo.com
-
-# yandex
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 yandexadexchange.net
-0.0.0.0 analytics.mobile.yandex.net
-0.0.0.0 extmaps-api.yandex.net
-
-# samsung
-0.0.0.0 samsungads.com
-0.0.0.0 smetrics.samsung.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 business.samsungusa.com
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 config.samsungads.com
-
-# apple
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.mzstatic.com
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+static.media.net
+media.net
+adservetx.media.net
+doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+media.fastclick.net
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+google-analytics.com
+ssl.google-analytics.com
+hotjar.com
+static.hotjar.com
+mouseflow.com
+a.mouseflow.com
+freshmarketer.com
+luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+stats.wp.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+pixel.facebook.com
+analytics.facebook.com
+ads.facebook.com
+an.facebook.com
+static.ads-twitter.com
+ads-api.twitter.com
+advertising.twitter.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+ads.pinterest.com
+log.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+ads.reddit.com
+d.reddit.com
+rereddit.com
+events.redditmedia.com
+ads.youtube.com
+youtube.cleverads.vn
+analytics.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+ads-sg.tiktok.com
+ads.yahoo.com
+global.adserver.yahoo.com
+analytics.yahoo.com
+ads.yap.yahoo.com
+appmetrica.yandex.com
+yandexadexchange.net
+analytics.mobile.yandex.net
+extmaps-api.yandex.net
+samsungads.com
+smetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
