@@ -11,8 +11,8 @@
 0.0.0.0 adservetx.media.net
 
 # doubleclick.net
-0.0.0.0 doubleclick.net/
-0.0.0.0 static.doubleclick.net/
+0.0.0.0 doubleclick.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
 
@@ -35,11 +35,11 @@
 0.0.0.0 static.hotjar.com
 
 # mouseflow
-0.0.0.0 mouseflow.com/
+0.0.0.0 mouseflow.com
 0.0.0.0 a.mouseflow.com
 
 #frashmarketer
-0.0.0.0 freshmarketer.com/
+0.0.0.0 freshmarketer.com
 
 #luckyorange
 0.0.0.0 luckyorange.com
