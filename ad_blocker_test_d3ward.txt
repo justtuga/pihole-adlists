@@ -1,134 +1,128 @@
-127.0.0.1 localhost
-
-::1 localhost #[IPv6]
-
-# [Start of entries]
-
 # google ads
-0.0.0.0 https://pagead2.googlesyndication.com
-0.0.0.0 https://ads.google.com
-0.0.0.0 https://adservice.google.com
-0.0.0.0 https://pagead2.googleadservices.com
-0.0.0.0 https://googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 googleadservices.com
 
 # media.net
-0.0.0.0 https://static.media.net
-0.0.0.0 https://media.net
-0.0.0.0 https://adservetx.media.net
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
 
 # doubleclick.net
-0.0.0.0 https://doubleclick.net/
-0.0.0.0 https://static.doubleclick.net/
-0.0.0.0 https://m.doubleclick.net
-0.0.0.0 https://mediavisor.doubleclick.net
+0.0.0.0 doubleclick.net/
+0.0.0.0 static.doubleclick.net/
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
 
 # fastclick
-0.0.0.0 https://media.fastclick.net/
+0.0.0.0 media.fastclick.net/
 
 #amazon
-0.0.0.0 https://adtago.s3.amazonaws.com
-0.0.0.0 https://analyticsengine.s3.amazonaws.com
-0.0.0.0 https://advice-ads.s3.amazonaws.com
-0.0.0.0 https://affiliationjs.s3.amazonaws.com
-0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
 
 #google analytics
-0.0.0.0 https://google-analytics.com
-0.0.0.0 https://ssl.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
 
 # hotjar
-0.0.0.0 https://hotjar.com
-0.0.0.0 https://static.hotjar.com
+0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
 
 # mouseflow
-0.0.0.0 https://mouseflow.com/
-0.0.0.0 https://a.mouseflow.com
+0.0.0.0 mouseflow.com/
+0.0.0.0 a.mouseflow.com
 
 #frashmarketer
-0.0.0.0 https://freshmarketer.com/
+0.0.0.0 freshmarketer.com/
 
 #luckyorange
-0.0.0.0 https://luckyorange.com
-0.0.0.0 https://cdn.luckyorange.com
-0.0.0.0 https://w1.luckyorange.com
-0.0.0.0 https://upload.luckyorange.net
-0.0.0.0 https://cs.luckyorange.net
-0.0.0.0 https://settings.luckyorange.net
+0.0.0.0 luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
 
 # stats wp plugin
-0.0.0.0 https://stats.wp.com
+0.0.0.0 stats.wp.com
 
 # bugsnag
-0.0.0.0 https://notify.bugsnag.com
-0.0.0.0 https://sessions.bugsnag.com
-0.0.0.0 https://api.bugsnag.com
-0.0.0.0 https://app.bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
 
 #sentry
-0.0.0.0 https://browser.sentry-cdn.com
-0.0.0.0 https://app.getsentry.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
 
 # facebook
-0.0.0.0 https://pixel.facebook.com
-0.0.0.0 https://analytics.facebook.com
-0.0.0.0 https://ads.facebook.com
-0.0.0.0 https://an.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
 
 # twitter
-0.0.0.0 https://static.ads-twitter.com
-0.0.0.0 https://ads-api.twitter.com
-0.0.0.0 https://advertising.twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 advertising.twitter.com
 
 # linkedin
-0.0.0.0 https://ads.linkedin.com
-0.0.0.0 https://analytics.pointdrive.linkedin.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
 
 # pinterest
-0.0.0.0 https://ads.pinterest.com
-0.0.0.0 https://log.pinterest.com
-0.0.0.0 https://ads-dev.pinterest.com
-0.0.0.0 https://analytics.pinterest.com
-0.0.0.0 https://trk.pinterest.com
-0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
 
 # reddit
-0.0.0.0 https://ads.reddit.com
-0.0.0.0 https://d.reddit.com
-0.0.0.0 https://rereddit.com
-0.0.0.0 https://events.redditmedia.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 rereddit.com
+0.0.0.0 events.redditmedia.com
 
 # youtube
-0.0.0.0 https://ads.youtube.com
-0.0.0.0 https://youtube.cleverads.vn
+0.0.0.0 ads.youtube.com
+0.0.0.0 youtube.cleverads.vn
 
 # tiktok
-0.0.0.0 https://analytics.tiktok.com
-0.0.0.0 https://ads.tiktok.com
-0.0.0.0 https://analytics-sg.tiktok.com
-0.0.0.0 https://ads-sg.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
 
 #yahoo
-0.0.0.0 https://ads.yahoo.com
-0.0.0.0 https://global.adserver.yahoo.com
-0.0.0.0 https://analytics.yahoo.com
-0.0.0.0 https://ads.yap.yahoo.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 global.adserver.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
 
 # yandex
-0.0.0.0 https://appmetrica.yandex.com
-0.0.0.0 https://yandexadexchange.net
-0.0.0.0 https://analytics.mobile.yandex.net
-0.0.0.0 https://extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 yandexadexchange.net
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 extmaps-api.yandex.net
 
 # samsung
-0.0.0.0 https://samsungads.com
-0.0.0.0 https://smetrics.samsung.com
-0.0.0.0 https://samsung-com.112.2o7.net
-0.0.0.0 https://business.samsungusa.com
-0.0.0.0 https://analytics-api.samsunghealthcn.com
-0.0.0.0 https://config.samsungads.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 business.samsungusa.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 config.samsungads.com
 
 # apple
-0.0.0.0 https://securemetrics.apple.com
-0.0.0.0 https://supportmetrics.apple.com
-0.0.0.0 https://metrics.icloud.com
-0.0.0.0 https://metrics.mzstatic.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
